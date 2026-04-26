@@ -49,6 +49,16 @@ Git · GitHub · Axios · Expo EAS · VS Code
 - 📍 Based in Charlotte, NC, Relocating to Seattle, WA
 
 ---
+## 💼 Work Experience
+
+### LightServe
+IT Support Specialist & Mobile Engineer
+
+Implemented enterprise CRM platforms, managed 100+ device MDM deployments, and built out cloud infrastructure on AWS.
+
+[View full LightServe experience →](./lightserve-EXPERIENCE.md)
+
+---
 
 ## Let's Connect
 
