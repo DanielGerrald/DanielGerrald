@@ -13,22 +13,28 @@ thinking and technical depth into mobile development.
 Salesforce · Microsoft Dynamics 365 · In-House CRM Development
 
 **Device & Endpoint Management**
-Microsoft Intune (MDM) · Apple Business Manager · Windows Update Management · Software Deployment · Zero-Touch Enrollment
+Microsoft Intune (MDM) · Apple Business Manager · SCCM (2012 & Current Branch) · Windows Update Management · Software Deployment · Zero-Touch Enrollment · Mobile Data Terminals
+
+**Infrastructure & Servers**
+VMware vSphere (5.5 / 6.5) · Windows Server (2008 / 2016) · Active Directory · Disaster Recovery (VMware Replication) · Server Administration (Physical & Virtual) · IP Telephony (Shoretel/Mitel)
 
 **Security & Networking**
-SentinelOne (EDR) · Barracuda Security Gateway · DNS Filtering · Endpoint Security
+SentinelOne (EDR) · Barracuda Security Gateway · DNS Filtering · Endpoint Security · Meraki · VLAN Design · Network Segmentation · SLED Compliance · CJIS Compliance · Milestone VMS · S2 Access Control
 
 **Cloud & Infrastructure**
 AWS (IAM · EC2 · RDS · S3 · CloudWatch) · Azure · Networking & Infrastructure
 
 **Support & Operations**
-Helpdesk & Ticketing Systems · IT Support · Onboarding & Device Provisioning · Splashtop Remote Support
+Helpdesk & Ticketing Systems · IT Support · Onboarding & Device Provisioning · Splashtop Remote Support · ZScaler / Avast SIG
+
+**Quality Assurance & Training**
+QA Process Design · Quality Monitoring · Agent Coaching & Mentoring · Training Development · Customer Education · Metrics Analysis · Continuous Improvement
 
 ---
 
 ## 💼 Work Highlights
 
-### Lightserver — IT Support Specialist & Mobile Engineer
+### Lightserve Corp — IT Support Specialist & Mobile Engineer
 
 #### CRM Implementation & Migrations
 
