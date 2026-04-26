@@ -46,16 +46,14 @@ Git · GitHub · Axios · Expo EAS · VS Code
 - 🚀 Actively seeking mobile engineering roles — open to relocation to Seattle, WA
 - 📱 Building and shipping cross-platform React Native apps for iOS & Android
 - 🔨 CrewLoop demo available to clone and run locally — mock API included
-- 📍 Based in Charlotte, NC, Relocating to Seattle, WA
+- 📍 Based in Charlotte, NC
 
 ---
 ## 💼 Work Experience
 
-### IT Administrator and Support Specialist
+For a detailed breakdown of my IT administration, networking, and support experience — including project-level write-ups, tools used, and key outcomes across 10+ years — see the full experience doc:
 
-Implemented enterprise CRM platforms, managed 100+ device MDM deployments, and built out cloud infrastructure on AWS.
-
-[View full IT Admin and Support experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
+[View IT Admin & Networking Experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
 
 ---
 
