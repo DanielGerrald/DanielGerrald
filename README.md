@@ -51,12 +51,11 @@ Git · GitHub · Axios · Expo EAS · VS Code
 ---
 ## 💼 Work Experience
 
-### LightServe
-IT Support Specialist & Mobile Engineer
+### IT Administrator and Support Specialist
 
 Implemented enterprise CRM platforms, managed 100+ device MDM deployments, and built out cloud infrastructure on AWS.
 
-[View full LightServe experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/Lightserve-EXPERIENCE.md)
+[View full LightServe experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
 
 ---
 
