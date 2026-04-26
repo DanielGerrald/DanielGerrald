@@ -1,13 +1,25 @@
-# Hi, I'm Daniel Gerrald 👋
+# Daniel Gerrald — IT & Systems Administration
 
-I come from a background in IT Administration and Support, with hands-on experience 
-implementing enterprise CRM platforms, managing device fleets at scale, and keeping 
-infrastructure running smoothly for growing teams. I'm now channeling that systems 
+I come from a background in IT Administration and Support, with hands-on experience
+implementing enterprise CRM platforms, managing device fleets at scale, and keeping
+infrastructure running smoothly for growing teams. I'm now channeling that systems
 thinking and technical depth into mobile development.
 
 ---
 
-## 🛠️ Skills & Tools
+## Contents
+
+- [Skills & Tools](#skills--tools)
+- [Career Timeline](#career-timeline)
+- [Lightserve Corp — IT Support Specialist & Mobile Engineer](#lightserve-corp--it-support-specialist--mobile-engineer) · Aug 2021 – Present
+- [Avast — Senior Technical Support Specialist](#avast--senior-technical-support-specialist) · Mar 2019 – Jun 2020
+- [City of Goose Creek — Network Administrator](#city-of-goose-creek--network-administrator) · Sep 2015 – Dec 2018
+- [City of Goose Creek — System Analyst](#city-of-goose-creek--system-analyst) · Dec 2013 – Sep 2015
+- [Get in Touch](#get-in-touch)
+
+---
+
+## Skills & Tools
 
 **CRM & Business Systems**
 Salesforce · Microsoft Dynamics 365 · In-House CRM Development
@@ -32,11 +44,23 @@ QA Process Design · Quality Monitoring · Agent Coaching & Mentoring · Trainin
 
 ---
 
-## 💼 Work Highlights
+## Career Timeline
 
-### Lightserve Corp — IT Support Specialist & Mobile Engineer
+| Period | Role | Company | Location |
+|---|---|---|---|
+| Aug 2021 – Present | IT Support Specialist & Mobile Engineer | Lightserve Corp | Charlotte, NC |
+| Mar 2019 – Jun 2020 | Senior Technical Support Specialist | Avast | Charlotte, NC |
+| Sep 2015 – Dec 2018 | Network Administrator | City of Goose Creek | Goose Creek, SC |
+| Dec 2013 – Sep 2015 | System Analyst | City of Goose Creek | Goose Creek, SC |
 
-#### CRM Implementation & Migrations
+---
+
+## Lightserve Corp — IT Support Specialist & Mobile Engineer
+`Aug 2021 – Present · Charlotte, NC · Full-time`
+
+Serve as both IT support specialist and internal mobile application developer for company operations.
+
+### CRM Implementation & Migrations
 
 **Salesforce CRM — Initial Implementation**
 Built out full CRM infrastructure including leads, opportunities, and pipeline management. Designed custom forms and data tables supporting ~1,200 records across leads and opportunities for a team of ~15 users.
@@ -59,7 +83,7 @@ Migrated ~1,200 CRM records and all associated workflows from Microsoft Dynamics
 
 ---
 
-#### Device Management
+### Device Management
 
 **Microsoft Intune MDM Deployment**
 Implemented and administered Microsoft Intune for organization-wide device management across 100+ users. Automated Windows update policies and standardized software deployment pipelines across the device fleet.
@@ -77,7 +101,7 @@ Deployed and configured Apple Business Manager and synced it with Microsoft Intu
 
 ---
 
-#### Security & Remote Support
+### Security & Remote Support
 
 **SentinelOne Endpoint Security**
 Deployed and managed SentinelOne across the organization for endpoint detection and response (EDR). Established device-level security coverage to protect against threats across the managed device fleet.
@@ -100,7 +124,7 @@ Rolled out Splashtop across the organization to streamline remote support capabi
 
 ---
 
-#### Cloud Infrastructure (AWS)
+### Cloud Infrastructure (AWS)
 
 **IAM & Access Management**
 Set up and managed AWS Identity and Access Management (IAM) to control user permissions and secure access across cloud resources, following least-privilege principles.
@@ -130,16 +154,14 @@ Created and configured S3 buckets for object storage, managing permissions, and 
 
 `AWS` `S3` `Cloud Storage` `Object Storage`
 
----
+[↑ Back to top](#daniel-gerrald--it--systems-administration)
 
 ---
 
-## 💼 Avast — Senior Technical Support Specialist
+## Avast — Senior Technical Support Specialist
 `Mar 2019 – Jun 2020 · Charlotte, NC · Full-time`
 
 Managed and implemented support processes and quality standards for a new software product — Avast Secure Internet Gateway (SIG), built on ZScaler technology.
-
----
 
 ### Support Operations & Quality
 
@@ -169,14 +191,14 @@ Reviewed and interpreted customer care QA data — including customer surveys, q
 
 `Metrics Analysis` `Customer Satisfaction` `Continuous Improvement` `Reporting`
 
+[↑ Back to top](#daniel-gerrald--it--systems-administration)
+
 ---
 
-## 🏛️ City of Goose Creek — Network Administrator
+## City of Goose Creek — Network Administrator
 `Sep 2015 – Dec 2018 · Goose Creek, SC · Full-time`
 
 Managed full IT infrastructure for a municipal government including emergency services (911 dispatch, fire department, police department) on a 99.999% uptime requirement.
-
----
 
 ### Infrastructure & Server Management
 
@@ -240,14 +262,14 @@ Implemented and maintained physical security systems including Milestone VMS and
 - Evaluated business needs, researched products, and designated procedures to best meet city objectives
 - Planned new network configurations and replaced aging switches and routers
 
+[↑ Back to top](#daniel-gerrald--it--systems-administration)
+
 ---
 
-## 🏛️ City of Goose Creek — System Analyst
+## City of Goose Creek — System Analyst
 `Dec 2013 – Sep 2015 · Goose Creek, SC · Full-time`
 
 Monitored and maintained computer systems and networks across six city locations, providing technical support and contributing to infrastructure projects.
-
----
 
 **Windows XP to Windows 7 Fleet Migration**
 Upgraded the police patrol fleet of 65 Mobile Data Terminals from Windows XP to Windows 7, ensuring continued operational capability for field officers.
@@ -262,9 +284,10 @@ Upgraded the police patrol fleet of 65 Mobile Data Terminals from Windows XP to 
 - Aided the IT director on network-related issues and special projects
 - Made hardware and software purchase recommendations
 
+[↑ Back to top](#daniel-gerrald--it--systems-administration)
+
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to reach out or connect — I'm always open to discussing IT infrastructure, systems migrations, or new opportunities.
-
