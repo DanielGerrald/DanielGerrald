@@ -1,6 +1,9 @@
 # Hi, I'm Daniel Gerrald 👋
 
-I'm an **IT Administrator and Support Specialist** with hands-on experience implementing and migrating enterprise CRM platforms, managing device fleets at scale, and keeping infrastructure running smoothly for growing teams. I focus equally on technical depth and measurable business outcomes.
+I come from a background in IT Administration and Support, with hands-on experience 
+implementing enterprise CRM platforms, managing device fleets at scale, and keeping 
+infrastructure running smoothly for growing teams. I'm now channeling that systems 
+thinking and technical depth into mobile development.
 
 ---
 
@@ -25,7 +28,7 @@ Helpdesk & Ticketing Systems · IT Support · Onboarding & Device Provisioning �
 
 ## 💼 Work Highlights
 
-### LightServer — IT Support Specialist & Mobile Engineer
+### Lightserver — IT Support Specialist & Mobile Engineer
 
 #### CRM Implementation & Migrations
 
