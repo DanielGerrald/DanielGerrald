@@ -46,7 +46,7 @@ Git · GitHub · Axios · Expo EAS · VS Code
 - 🚀 Actively seeking mobile engineering roles — open to relocation to Seattle, WA
 - 📱 Building and shipping cross-platform React Native apps for iOS & Android
 - 🔨 CrewLoop demo available to clone and run locally — mock API included
-- 📍 Based in Charlotte, NC, Relocating to Seattle, WA
+- 📍 Based in Charlotte, NC
 
 ---
 ## 💼 Work Experience
