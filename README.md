@@ -51,35 +51,9 @@ Git · GitHub · Axios · Expo EAS · VS Code
 ---
 ## 💼 Work Experience
 
-### Lightserve Corp — IT Technician & Mobile Engineer
-`Aug 2021 – Present · Charlotte, NC`
+For a detailed breakdown of my IT administration, networking, and support experience — including project-level write-ups, tools used, and key outcomes across 10+ years — see the full experience doc:
 
-Serve as both IT support specialist and internal mobile application developer. Built a React Native field operations app in production — job dispatch, digital signatures, offline SQLite storage, and REST API sync.
-
----
-
-### Avast — Senior Technical Support Specialist
-`Mar 2019 – Jun 2020 · Charlotte, NC`
-
-Led support quality for Avast Secure Internet Gateway (SIG) built on ZScaler. Designed QA monitoring standards, owned the QA process end-to-end, delivered agent training and one-on-one mentoring, and analyzed customer satisfaction metrics to drive operational improvements.
-
----
-
-### City of Goose Creek — Network Administrator
-`Sep 2015 – Dec 2018 · Goose Creek, SC`
-
-Managed 200–300 users and 30+ servers (physical and virtual) for a municipal government — including 911 dispatch, fire, and police on a 99.999% uptime requirement. Maintained SLED and CJIS compliance, migrated domain controllers (2008 → 2016), upgraded VMware and SCCM, and deployed Meraki wireless networks.
-
----
-
-### City of Goose Creek — System Analyst
-`Dec 2013 – Sep 2015 · Goose Creek, SC`
-
-Monitored and maintained systems and networks across six city locations. Upgraded a fleet of 65 police Mobile Data Terminals from Windows XP to Windows 7.
-
----
-
-[View full IT Admin and Support experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
+[View IT Admin & Networking Experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
 
 ---
 
