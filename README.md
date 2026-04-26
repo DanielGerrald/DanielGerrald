@@ -56,7 +56,7 @@ IT Support Specialist & Mobile Engineer
 
 Implemented enterprise CRM platforms, managed 100+ device MDM deployments, and built out cloud infrastructure on AWS.
 
-[View full LightServe experience →](./lightserve-EXPERIENCE.md)
+[View full LightServe experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/Lightserve-EXPERIENCE.md)
 
 ---
 
