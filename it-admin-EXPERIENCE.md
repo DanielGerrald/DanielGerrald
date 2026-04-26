@@ -126,6 +126,138 @@ Created and configured S3 buckets for object storage, managing permissions, and 
 
 ---
 
+---
+
+## 💼 Avast — Senior Technical Support Specialist
+`Mar 2019 – Jun 2020 · Charlotte, NC · Full-time`
+
+Managed and implemented support processes and quality standards for a new software product — Avast Secure Internet Gateway (SIG), built on ZScaler technology.
+
+---
+
+### Support Operations & Quality
+
+**QA Process Design & Ownership**
+Participated in design of call, chat, and email monitoring formats and quality standards. Owned, developed, and implemented the QA process across all customer care channels.
+
+`QA` `Quality Assurance` `Customer Care` `Process Design`
+
+---
+
+**Quality Monitoring & Coaching**
+Conducted QA reviews and monitored adherence across phones, chats, and tickets. Provided one-on-one mentoring to new employees and those needing performance improvement.
+
+`QA Reviews` `Agent Coaching` `Mentoring` `Performance Management`
+
+---
+
+**Training Development**
+Developed and implemented training programs for both internal support agents and external customers on the SIG product.
+
+`Training` `Documentation` `Customer Education` `Enablement`
+
+---
+
+**Analytics & Continuous Improvement**
+Reviewed and interpreted customer care QA data — including customer surveys, quality monitoring scores, and agent productivity metrics — to identify trends and develop recommendations for improved customer experience and operational efficiency.
+
+`Metrics Analysis` `Customer Satisfaction` `Continuous Improvement` `Reporting`
+
+---
+
+## 🏛️ City of Goose Creek — Network Administrator
+`Sep 2015 – Dec 2018 · Goose Creek, SC · Full-time`
+
+Managed full IT infrastructure for a municipal government including emergency services (911 dispatch, fire department, police department) on a 99.999% uptime requirement.
+
+---
+
+### Infrastructure & Server Management
+
+**Domain Controller Migration**
+Migrated domain controllers from Windows Server 2008 to Windows Server 2016, modernizing identity and authentication infrastructure for the city.
+
+`Windows Server` `Active Directory` `Domain Migration`
+
+---
+
+**VMware Environment Upgrade**
+Upgraded VMware virtualization environment from 5.5 to 6.5 and implemented a disaster recovery site using VMware replication for business continuity.
+
+`VMware` `Virtualization` `Disaster Recovery` `vSphere`
+
+---
+
+**SCCM Upgrade & Endpoint Management**
+Upgraded SCCM 2012 to SCCM Current Branch and managed software deployment and Windows updates across the full device fleet.
+
+`SCCM` `Endpoint Management` `Software Deployment` `Windows Updates`
+
+---
+
+### Network & Security
+
+**Meraki Wireless Deployment**
+Implemented Meraki wireless networks and devices across city locations, establishing centralized cloud-managed wireless infrastructure.
+
+`Meraki` `Wireless Networking` `Network Infrastructure`
+
+---
+
+**VLAN Network Segmentation**
+Secured the network by implementing VLAN-segregated networks and maintained documentation of all network configurations and topology.
+
+`VLAN` `Network Segmentation` `Network Security`
+
+---
+
+**SLED & CJIS Compliance**
+Maintained and enforced network security standards in compliance with South Carolina Law Enforcement Division (SLED) and Criminal Justice Information Service (CJIS) requirements — supporting police and emergency services infrastructure.
+
+`SLED` `CJIS` `Compliance` `Security Standards`
+
+---
+
+**Security Systems**
+Implemented and maintained physical security systems including Milestone VMS and S2 access control.
+
+`Milestone` `S2` `Physical Security` `Access Control`
+
+---
+
+### Additional Responsibilities
+
+- Managed 200–300 users and end devices, and 30 servers (physical and virtual)
+- Maintained IP telephone system (Shoretel/Mitel)
+- Managed cloud services and subscriptions
+- Maintained proper user access control for shared files and data
+- Evaluated business needs, researched products, and designated procedures to best meet city objectives
+- Planned new network configurations and replaced aging switches and routers
+
+---
+
+## 🏛️ City of Goose Creek — System Analyst
+`Dec 2013 – Sep 2015 · Goose Creek, SC · Full-time`
+
+Monitored and maintained computer systems and networks across six city locations, providing technical support and contributing to infrastructure projects.
+
+---
+
+**Windows XP to Windows 7 Fleet Migration**
+Upgraded the police patrol fleet of 65 Mobile Data Terminals from Windows XP to Windows 7, ensuring continued operational capability for field officers.
+
+`Windows 7` `Fleet Migration` `Mobile Data Terminals` `Endpoint Management`
+
+---
+
+**General IT Operations**
+- Monitored and maintained computer systems and networks across six city locations
+- Performed general maintenance, troubleshooting, and repair of computer systems
+- Aided the IT director on network-related issues and special projects
+- Made hardware and software purchase recommendations
+
+---
+
 ## 📫 Get in Touch
 
 Feel free to reach out or connect — I'm always open to discussing IT infrastructure, systems migrations, or new opportunities.
