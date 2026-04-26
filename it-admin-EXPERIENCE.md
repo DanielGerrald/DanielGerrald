@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Gerrald 👋
 
-I'm an **IT Support Specialist & Mobile Engineer** with hands-on experience implementing and migrating enterprise CRM platforms, managing device fleets at scale, and keeping infrastructure running smoothly for growing teams. I focus equally on technical depth and measurable business outcomes.
+I'm an **IT Administrator and Support Specialist** with hands-on experience implementing and migrating enterprise CRM platforms, managing device fleets at scale, and keeping infrastructure running smoothly for growing teams. I focus equally on technical depth and measurable business outcomes.
 
 ---
 
