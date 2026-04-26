@@ -55,7 +55,7 @@ Git · GitHub · Axios · Expo EAS · VS Code
 
 Implemented enterprise CRM platforms, managed 100+ device MDM deployments, and built out cloud infrastructure on AWS.
 
-[View full LightServe experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
+[View full IT Admin and Support experience →](https://github.com/DanielGerrald/DanielGerrald/blob/main/it-admin-EXPERIENCE.md)
 
 ---
 
