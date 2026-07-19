@@ -10,7 +10,7 @@ Throughout my career in IT, I made a deliberate choice to dig into the *why* beh
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CrewLoop**](https://github.com/DanielGerrald/CrewLoop) | Cross-platform field operations app — job dispatch, photo documentation, digital signatures, time tracking, and offline-first sync. Built for and used in production by a national field services company. | React Native · Expo · SQLite · Axios |
+| [**CrewLoop**](https://github.com/DanielGerrald/CrewLoop) | Cross-platform field operations app — job dispatch, photo documentation, digital signatures, time tracking, and offline-first sync. Built for and used in production by a national field services company. | React Native · Expo (SDK 55) · expo-sqlite · React Navigation · React Native Paper · Axios · Express.js |
 
 ---
 
@@ -19,7 +19,7 @@ Throughout my career in IT, I made a deliberate choice to dig into the *why* beh
 Systems administration isn't just a detour on my path to mobile — it's a foundation that makes me a better engineer:
 
 - **Offline-first thinking** — I've managed networks that fail. I build apps that don't.
-- **Debugging discipline** — Production incident response taught me to find root causes, not symptoms.
+- **Debugging discipline** — Production incident response taught me to find root causes, not symptoms. In CrewLoop, that meant rebuilding a form's input component around a deterministic, forced-validation lifecycle instead of patching one-off validation bugs — so the whole class of "validated at the wrong time" failures stopped happening.
 - **Security awareness** — CJIS/SLED compliance experience means I think about credential management and data handling by default.
 - **User empathy** — A decade of sitting with end users and digging into their real problems, not just their stated ones.
 
@@ -28,16 +28,16 @@ Systems administration isn't just a detour on my path to mobile — it's a found
 ## Skills
 
 **Mobile**
-React Native · Expo · JavaScript · SQLite · iOS · Android
+React Native · Expo (SDK 55) · EAS Build/Update (OTA) · JavaScript · expo-sqlite · React Navigation · React Native Paper · Context API · iOS · Android
 
-**Web**
-React · Node.js · REST APIs · MySQL · MongoDB
+**Web & Backend**
+React · Node.js · Express.js · REST APIs · Axios · MySQL · MongoDB
 
 **Systems & Infrastructure**
 VMware · Windows Server · Active Directory · SCCM · Meraki · VLAN design · CI/CD
 
 **Tools**
-Git · GitHub · Axios · Expo EAS · VS Code
+Git · GitHub · Expo Go · VS Code · Figma
 
 ---
 
