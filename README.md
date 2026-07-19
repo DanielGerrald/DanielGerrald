@@ -4,6 +4,10 @@ I'm a mobile engineer transitioning from 10+ years in IT and systems administrat
 
 Throughout my career in IT, I made a deliberate choice to dig into the *why* behind every problem rather than reaching for the fastest fix. That mindset — understanding real user pain points before writing a single line of code — is what drives how I build software today.
 
+The clearest example is CrewLoop, a production field-operations app I designed and built from scratch for a national lighting retrofit company. When I hit unreliable form validation in the final job checkout flow, I didn't patch the individual bug — I rebuilt the input component with a deterministic, forced-validation lifecycle so validation fires at a predictable point in the form's submit flow instead of depending on inconsistent blur/render timing, and I made sure it handled fields that only exist conditionally (toggled on by a switch) without leaving stale or hidden validation state behind. That's the pattern I default to: when something behaves unpredictably, I look for the structural reason, not the quickest fix.
+
+I'm most comfortable owning a problem end to end — requirements gathering with actual end users (subcontractors in the field, in CrewLoop's case), offline-first data architecture with SQLite, REST API integration, and native device features like camera capture, document upload, and digital signatures. I like building things that other people can rely on without thinking about them.
+
 ---
 
 ## What I Build
