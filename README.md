@@ -47,10 +47,10 @@ Git · GitHub · Expo Go · VS Code · Figma
 
 ## Currently
 
-- 🚀 Actively seeking mobile engineering roles — open to relocation to Seattle, WA
+- 🚀 Actively seeking mobile engineering roles
 - 📱 Building and shipping cross-platform React Native apps for iOS & Android
 - 🔨 Ohmly — portfolio showcase of a production field-ops app (real code, architecture, and screenshots)
-- 📍 Based in Charlotte, NC
+- 📍 Based in Seattle, WA
 
 ---
 ## 💼 Work Experience
