@@ -48,7 +48,7 @@ QA Process Design · Quality Monitoring · Agent Coaching & Mentoring · Trainin
 
 | Period | Role | Company | Location |
 |---|---|---|---|
-| Aug 2021 – Present | IT Support Specialist & Mobile Engineer | Lightserve Corp | Charlotte, NC |
+| Aug 2021 – Aug 2026 | IT Support Specialist & Mobile Engineer | Lightserve Corp | Charlotte, NC |
 | Mar 2019 – Jun 2020 | Senior Technical Support Specialist | Avast | Charlotte, NC |
 | Sep 2015 – Dec 2018 | Network Administrator | City of Goose Creek | Goose Creek, SC |
 | Dec 2013 – Sep 2015 | System Analyst | City of Goose Creek | Goose Creek, SC |
@@ -56,7 +56,7 @@ QA Process Design · Quality Monitoring · Agent Coaching & Mentoring · Trainin
 ---
 
 ## Lightserve Corp — IT Support Specialist & Mobile Engineer
-`Aug 2021 – Present · Charlotte, NC · Full-time`
+`Aug 2021 – 2026 · Charlotte, NC · Full-time`
 
 Serve as both IT support specialist and internal mobile application developer for company operations.
 
