@@ -4,7 +4,9 @@ I'm a mobile engineer transitioning from 10+ years in IT and systems administrat
 
 Throughout my career in IT, I made a deliberate choice to dig into the *why* behind every problem rather than reaching for the fastest fix. That mindset — understanding real user pain points before writing a single line of code — is what drives how I build software today.
 
-The clearest example is Ohmly, a production field-operations app I designed and built from scratch for a national lighting retrofit company. When I hit unreliable form validation in the final job checkout flow, I didn't patch the individual bug — I rebuilt the input component with a deterministic, forced-validation lifecycle so validation fires at a predictable point in the form's submit flow instead of depending on inconsistent blur/render timing, and I made sure it handled fields that only exist conditionally (toggled on by a switch) without leaving stale or hidden validation state behind. That's the pattern I default to: when something behaves unpredictably, I look for the structural reason, not the quickest fix.
+The clearest example is Lightserve Connect, a production field-operations app I built for Lightserve Corp. Their original app — *Illumetek Go*, built in Angular — had gone untouched for 7+ years and was aging out of the App Store. Rather than try to patch a defunct codebase, I took screenshots of the existing workflows and rebuilt the entire app from scratch in React Native as Lightserve Connect. Ohmly is an altered replica of that production app with company branding removed for public sharing.
+
+That rebuild surfaced a good example of how I approach problems: when I hit unreliable form validation in the final job checkout flow, I didn't patch the individual bug — I rebuilt the input component with a deterministic, forced-validation lifecycle so validation fires at a predictable point in the form's submit flow instead of depending on inconsistent blur/render timing, and I made sure it handled fields that only exist conditionally (toggled on by a switch) without leaving stale or hidden validation state behind. That's the pattern I default to: when something behaves unpredictably, I look for the structural reason, not the quickest fix.
 
 I'm most comfortable owning a problem end to end — requirements gathering with actual end users (subcontractors in the field, in Ohmly's case), offline-first data architecture with SQLite, REST API integration, and native device features like camera capture, document upload, and digital signatures. I like building things that other people can rely on without thinking about them.
 
@@ -14,7 +16,7 @@ I'm most comfortable owning a problem end to end — requirements gathering with
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Ohmly**](https://github.com/DanielGerrald/Ohmly) | Cross-platform field operations app — job dispatch, photo documentation, digital signatures, time tracking, and offline-first sync. Built for and used in production by a national field services company. | React Native · Expo (SDK 55) · expo-sqlite · React Navigation · React Native Paper · Axios · Firebase |
+| [**Ohmly**](https://github.com/DanielGerrald/Ohmly) | Portfolio replica of **Lightserve Connect**, a production field-ops app I built for Lightserve Corp. The original app (*Illumetek Go*, Angular) had been dormant for 7+ years and was expiring from the App Store — so I took screenshots and rebuilt the entire thing from scratch in React Native. Ohmly is an altered version with company branding removed for public sharing. Covers job dispatch, photo documentation, digital signatures, time tracking, and offline-first sync. | React Native · Expo (SDK 55) · expo-sqlite · React Navigation · React Native Paper · Axios · Firebase |
 
 ---
 
@@ -49,7 +51,7 @@ Git · GitHub · Expo Go · VS Code · Figma
 
 - 🚀 Actively seeking mobile engineering roles
 - 📱 Building and shipping cross-platform React Native apps for iOS & Android
-- 🔨 Ohmly — portfolio showcase of a production field-ops app (real code, architecture, and screenshots)
+- 🔨 Ohmly — portfolio replica of Lightserve Connect, a production field-ops app I rebuilt in React Native after the original Angular app aged out of the App Store
 - 📍 Based in Seattle, WA
 
 ---
